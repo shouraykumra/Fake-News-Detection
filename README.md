@@ -60,13 +60,13 @@ b.     CNN – the model will consist of an embedding layer, a convolution layer
 
 # Results
 
-1. LinearSVC - accuracy (67.36%)	
+1. LinearSVC - accuracy (80.36%)	
 
-2. Logistic Regression - accuracy (68.31%)
+2. Logistic Regression - accuracy (80.45%)
 
-3. Decision Tree - accuracy (61.10)	
+3. Decision Tree - accuracy (67.83)	
 
-4. MultinomialNB - accuracy (71.82%)
+4. MultinomialNB - accuracy (75.90%)
 
 5. CNN1D - accuracy (61.52%)
 
